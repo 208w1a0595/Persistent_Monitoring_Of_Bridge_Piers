@@ -12,8 +12,8 @@
 #include <WiFiUdp.h>
 
 
-#define FIREBASE_HOST "epics-1d096-default-rtdb.firebaseio.com"      
-#define FIREBASE_AUTH "ply4wQFlRPbHEYEPuORZOqcsDpILxXzXQaPgE5u7"
+#define FIREBASE_HOST "epics-XXXXX-default-rtdb.firebaseio.com"      
+#define FIREBASE_AUTH "plXXXXXXXXbHEYXXXXXXXxXzXQaPgE5u7"
 
 //Provide the token generation process info
 
@@ -25,10 +25,10 @@
 
 #define API_KEY "AIzaSyBv531nf_0cZbhrKhkLcV3xDTuqqb_Yc_I"
 
-#define USER_EMAIL "mgowrisankar5877@gmail.com"
+#define USER_EMAIL "mgowrisankarXXXX@gmail.com"
 #define USER_PASSWORD "123456"
 
-#define DATABASE_URL "https://epics-1d096-default-rtdb.firebaseio.com"
+#define DATABASE_URL "https://epics-XXXXX-default-rtdb.firebaseio.com"
 
 //Firebase Objects
 FirebaseData fbdo;
